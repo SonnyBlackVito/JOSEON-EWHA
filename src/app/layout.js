@@ -105,7 +105,7 @@ export const metadata = {
       "JOSEON EWHA is the ultimate platform for premium Korean spirits, liquor, and beverages. Discover authentic flavors and exclusive collections.",
     images: [
       {
-        url: "/background_image_joseonewhа.jpg",
+        url: "/background_image_joseon.png",
         width: 1200,
         height: 600,
         alt: "JOSEON EWHA - Premium Spirits Platform",
