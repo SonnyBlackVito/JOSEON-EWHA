@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^3.31.0",
+    "@emotion/react": "^11.14.0",
     "axios": "^1.13.2",
+    "framer-motion": "^12.26.2",
     "lenis": "^1.3.17",
     "lucide-react": "^0.562.0",
     "next": "16.1.1",
