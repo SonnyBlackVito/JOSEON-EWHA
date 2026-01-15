@@ -576,7 +576,7 @@ const Header = ({ onHome, onAbout }) => {
     {
       key: "whitepaper",
       label: "WHITEPAPER",
-      href: "",
+      href: "https://joseonewha.gitbook.io/",
     },
     // {
     //   key: "news",
