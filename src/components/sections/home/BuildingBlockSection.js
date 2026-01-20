@@ -97,7 +97,7 @@ export default function BuildingBlockSection() {
               OF
             </Text>
             <br />
-            THE JOSEON EWHA LEGACY
+            THE JOSUNYIHWA LEGACY
           </MotionText>
 
           {/* Enhanced Cards Grid */}
@@ -153,7 +153,7 @@ export default function BuildingBlockSection() {
                   }}
                   mb={6}
                   lineHeight="short">
-                  JOSEON EWHA ROYAL ORIGIN
+                  JOSUNYIHWA ROYAL ORIGIN
                 </Text>
                 <Text
                   fontSize={{ base: "sm", md: "md", lg: "lg" }}
@@ -213,7 +213,7 @@ export default function BuildingBlockSection() {
                   }}
                   mb={6}
                   lineHeight="short">
-                  JOSEON EWHA ON-CHAIN SPIRITS
+                  JOSUNYIHWA ON-CHAIN SPIRITS
                 </Text>
                 <Text
                   fontSize={{ base: "sm", md: "md", lg: "lg" }}

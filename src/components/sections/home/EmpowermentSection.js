@@ -82,7 +82,7 @@ export default function EmpowermentSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
               mb={4}>
-              JOSEON EWHA SIGNATURE BLEND
+              JOSUNYIHWA SIGNATURE BLEND
             </MotionText>
 
             <MotionText
@@ -151,7 +151,7 @@ export default function EmpowermentSection() {
                     WebkitTextFillColor: "transparent",
                   }}
                   mb={6}>
-                  JOSEON EWHA SIGNATURE BLEND
+                  JOSUNYIHWA SIGNATURE BLEND
                 </Text>
                 <Text
                   fontSize={{ base: "sm", md: "md", lg: "lg" }}
@@ -199,7 +199,7 @@ export default function EmpowermentSection() {
                     WebkitTextFillColor: "transparent",
                   }}
                   mb={6}>
-                  JOSEON EWHA RWA LINK
+                  JOSUNYIHWA RWA LINK
                 </Text>
                 <Text
                   fontSize={{ base: "sm", md: "md", lg: "lg" }}

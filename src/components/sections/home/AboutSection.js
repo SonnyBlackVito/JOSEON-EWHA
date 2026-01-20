@@ -226,7 +226,7 @@ export default function AboutSection() {
                   lineHeight={{ base: "1.6", md: "1.7" }}
                   fontWeight={400}
                   mb={{ base: 4, md: 5 }}>
-                  JOSEON EWHA combines 500 years of tradition with AI and
+                  JOSUNYIHWA combines 500 years of tradition with AI and
                   Blockchain to digitize the ownership of premium rice whiskey
                   casks. We make high-value spirit assets accessible to
                   everyone, ensuring transparency from grain to glass.

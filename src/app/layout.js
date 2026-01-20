@@ -21,14 +21,14 @@ export const metadata = {
   metadataBase: new URL("https://www.joseonewhа.com"),
 
   title: {
-    default: "JOSEON EWHA Platform | Premium Spirits & Liquor",
-    template: "%s | JOSEON EWHA Platform",
+    default: "JOSUNYIHWA Platform | Premium Spirits & Liquor",
+    template: "%s | JOSUNYIHWA Platform",
   },
 
-  description: "JOSEON EWHA - Premium Korean Spirits and Liquor Platform",
+  description: "JOSUNYIHWA - Premium Korean Spirits and Liquor Platform",
 
   keywords: [
-    "JOSEON EWHA",
+    "JOSUNYIHWA",
     "Liquor",
     "Spirits",
     "Korean Alcohol",
@@ -39,12 +39,12 @@ export const metadata = {
     "한국주",
   ],
 
-  authors: [{ name: "JOSEON EWHA", url: "https://www.joseonewhа.com" }],
-  creator: "JOSEON EWHA",
-  publisher: "JOSEON EWHA Platform",
+  authors: [{ name: "JOSUNYIHWA", url: "https://www.joseonewhа.com" }],
+  creator: "JOSUNYIHWA",
+  publisher: "JOSUNYIHWA Platform",
   generator: "Next.js",
 
-  applicationName: "JOSEON EWHA Platform",
+  applicationName: "JOSUNYIHWA Platform",
 
   referrer: "origin-when-cross-origin",
 
@@ -99,16 +99,16 @@ export const metadata = {
 
   openGraph: {
     url: "https://www.joseonewhа.com",
-    siteName: "JOSEON EWHA",
-    title: "JOSEON EWHA Platform - Premium Spirits",
+    siteName: "JOSUNYIHWA",
+    title: "JOSUNYIHWA Platform - Premium Spirits",
     description:
-      "JOSEON EWHA is the ultimate platform for premium Korean spirits, liquor, and beverages. Discover authentic flavors and exclusive collections.",
+      "JOSUNYIHWA is the ultimate platform for premium Korean spirits, liquor, and beverages. Discover authentic flavors and exclusive collections.",
     images: [
       {
         url: "/background_image_joseon.png",
         width: 1200,
         height: 600,
-        alt: "JOSEON EWHA - Premium Spirits Platform",
+        alt: "JOSUNYIHWA - Premium Spirits Platform",
       },
     ],
     type: "website",
@@ -138,7 +138,7 @@ export const metadata = {
     "msapplication-config": "/browserconfig.xml",
     "apple-mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "black-translucent",
-    "apple-mobile-web-app-title": "JOSEON EWHA",
+    "apple-mobile-web-app-title": "JOSUNYIHWA",
     "mobile-web-app-capable": "yes",
     google: "notranslate",
     "google-play-app": "app-id=io.joseonewhа.app",
