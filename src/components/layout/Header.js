@@ -625,7 +625,7 @@ const Header = ({ onHome, onAbout }) => {
             <Image
               src="/logo/logo.png"
               alt="KPOP ROAD"
-              h="32px"
+              h="100px"
               cursor="pointer"
               onClick={handleScrollToTop}
               mr={12}
@@ -656,7 +656,7 @@ const Header = ({ onHome, onAbout }) => {
             <Image
               src="/logo/logo.png"
               alt="KPOP ROAD"
-              h="28px"
+              h="50px"
               cursor="pointer"
               onClick={handleScrollToTop}
               transition="all 0.2s ease"
