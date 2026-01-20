@@ -28,7 +28,7 @@ export default function Footer() {
           color="gray.300"
           textAlign="center"
           maxW="100%">
-          Copyright JOSEONEWHA . All rights reserved.
+          Copyright JOSUNYIHWA . All rights reserved.
         </Text>
       </VStack>
     </Container>
